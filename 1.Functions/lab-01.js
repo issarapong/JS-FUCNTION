@@ -3,6 +3,6 @@ function sum(num1, num2) {
   }
   
   // เรียกใช้งาน function
-  result =sum(3, 6); // 9
+  result =sum(3, 6); 
 
-console.log(result)
+console.log(result) // 9
