@@ -13,7 +13,7 @@ function sum(num1, num2) {
 sum(3, 6); // 9
 
 ```
-##### ตัวอย่างเพิ่มเติม <a src = "./1.Functions/ex1.js">1. Function</a>
+##### ตัวอย่างเพิ่มเติม <a href = "https://github.com/issarapong/JS-FUCNTION/tree/main/1.Functions">1. Function</a>
 
 ## 2. Anonymous Functions
 
