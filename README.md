@@ -1,7 +1,7 @@
-# JS-FUNCTION
+# JS-FUNCTION 
     บันทึกทำความเข้าใจเรื่อง Java Script Function 
 
-## Functions
+## 1. Functions
 
 ```
 // กำหนดตัวแปรรับค่าให้ Function
@@ -15,7 +15,7 @@ sum(3, 6); // 9
 ```
 
 
-## Arrow Functions
+## 2. Anonymous Functions
 
 ```
 
@@ -23,44 +23,23 @@ sum(3, 6); // 9
 
 
 
-
-
-## Anonymous Functions
-
+## 3. Function Parameters
 
 ```
 
 ```
 
 
-## Function Expressions
-
-
-```
-
-```
-
-
-## Function Parameters
-
-
-```
-
-```
-
-## return Keyword
-
+## 4. Function Expressions
 
 ```
 
 ```
 
 
-## Function Declaration
-
-
-```
+## 5. Arrow Functions
 
 ```
 
-## Calling Functions
+```
+
