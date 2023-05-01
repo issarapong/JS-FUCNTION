@@ -69,6 +69,28 @@ const dog = function(type) {
 ## 5. Arrow Functions
 
 ```
+// Arrow function แบบระบุ 2 Parameter
+const sum = (firstParam, secondParam) => { 
+  return firstParam + secondParam; 
+}; 
+console.log(sum(2,5)); // Prints: 7 
+
+// Arrow function แบบ ไม่ระบุ Parameter
+const printHello = () => { 
+  console.log('hello'); 
+}; 
+printHello(); // Prints: hello
+
+// Arrow functions แบบ Parameter เดียว
+const checkWeight = weight => { 
+  console.log(`Baggage weight : ${weight} kilograms.`); 
+}; 
+checkWeight(25); // Prints: Baggage weight : 25 kilograms.
+
+
+// Concise arrow functions
+const multiply = (a, b) => a * b; 
+console.log(multiply(2, 30)); // Prints: 60 
 
 ```
-
+##### Arrow Function  เป็น รูปแบบ Fucntion ที่เริ่มมีการเรียกใช้ ตั้งแต่ ES6  เป็นต้นมา โดยใช้ => แยก ระหว่าง ส่วน Function Parameter และ Function Body  มีทั้งรูปแบบ ระบุ Parameter และไม่ระบุ Parameter ซึ๋ง ในการเขียนโปรแกรม ภาษา Java Script จะพบเจอได้บ่อยมาก
