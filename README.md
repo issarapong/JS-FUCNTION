@@ -94,3 +94,5 @@ console.log(multiply(2, 30)); // Prints: 60
 
 ```
 ##### Arrow Function  เป็น รูปแบบ Fucntion ที่เริ่มมีการเรียกใช้ ตั้งแต่ ES6  เป็นต้นมา โดยใช้ => แยก ระหว่าง ส่วน Function Parameter และ Function Body  มีทั้งรูปแบบ ระบุ Parameter และไม่ระบุ Parameter ซึ๋ง ในการเขียนโปรแกรม ภาษา Java Script จะพบเจอได้บ่อยมาก
+
+##### ตัวอย่างเพิ่มเติม. <a href = "https://github.com/issarapong/JS-FUCNTION/tree/main/5.Arrow%20Functions">5. Arrow Function </a>
