@@ -19,10 +19,19 @@ sum(3, 6); // 9
 ## 2. Anonymous Functions
 
 ```
+// ตัวอย่าง function ปกติ
+function rocketToMars() {
+  return 'BOOM!';
+}
 
+// Anonymous function
+const rocketToMars = function() {
+  return 'BOOM!';
+}
 ```
+##### ตามตัวอย่างเป็นการเปรียบเทียบระหว่าง Function ปกติ กับ Anonymous Function  จะเห็นว่า ไม่ต้องระบุชื่อฟังชั่น และสามารถนำค่าที่ Return จาก Fuction เก็บเข้าตัวแปรและนำไปใช้ต่อได้เลย
 
-
+##### ตัวอย่างเพิ่มเติม. <a href = "https://github.com/issarapong/JS-FUCNTION/tree/main/2.Anonymous%20Functions">2. Anonymous Function</a>
 
 ## 3. Function Parameters
 
