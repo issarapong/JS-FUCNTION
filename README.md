@@ -49,8 +49,21 @@ function sayHello(name) {
 ## 4. Function Expressions
 
 ```
+//แบบระบุ
+const dog = function() {
+  return 'Woof!';
 
+  
+}
+// แบบไม่ระบุ
+const dog = function(type) {
+    return `Woof!${type}`;
+  }
+  console.log(dog('puddle'))
 ```
+##### Function Expression คือ function อย่างย่อลักษณะเดียวกับ  Anonymous function โดยจะสามารถระบุ parameter เข้าไปหรือไม่ระบุเข้าไปก็ได้
+
+##### ตัวอย่างเพิ่มเติม. <a href = "https://github.com/issarapong/JS-FUCNTION/tree/main/4.Function%20Expressions">4. Function Expression</a>
 
 
 ## 5. Arrow Functions
