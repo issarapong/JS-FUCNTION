@@ -44,6 +44,8 @@ function sayHello(name) {
 ```
 ##### Function Parameter คือ function ที่มีการส่ง รับค่า parameter เข้าไป ประมวลผล ก่อน Return ค่าออกมาใช้งาน การเรียกใช้ Function Parameter ต้องมีการระบุตัว ค่า parameter ลงไปทุกครั้งที่เรียกใช้งานเพื่ิอให้ได้ผลลัพธ์ที่ถูกต้อง 
 
+##### ตัวอย่างเพิ่มเติม. <a href = "https://github.com/issarapong/JS-FUCNTION/tree/main/3.Function%20Parameters">3. Function Parameter</a>
+
 ## 4. Function Expressions
 
 ```
