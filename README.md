@@ -36,9 +36,13 @@ const rocketToMars = function() {
 ## 3. Function Parameters
 
 ```
-
+// The parameter is name
+function sayHello(name) {
+  return `Hello, ${name}!`;
+}
+  console.log(sayHello('ไชโย'))
 ```
-
+##### Function Parameter คือ function ที่มีการส่ง รับค่า parameter เข้าไป ประมวลผล ก่อน Return ค่าออกมาใช้งาน การเรียกใช้ Function Parameter ต้องมีการระบุตัว ค่า parameter ลงไปทุกครั้งที่เรียกใช้งานเพื่ิอให้ได้ผลลัพธ์ที่ถูกต้อง 
 
 ## 4. Function Expressions
 
